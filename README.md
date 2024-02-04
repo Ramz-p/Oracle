@@ -14,7 +14,7 @@ Oracle is a voice-controlled virtual assistant designed to assist users with var
 - Open FaceTime application
 
 ## Usage
-1. Run the program `python oracle.py`.
+1. Run the program `python project.py`.
 2. Oracle will greet you and wait for your command.
 3. Speak your command, and Oracle will execute the corresponding action.
 
